@@ -14,11 +14,5 @@ I am currently studying for a **Bachelor’s degree in Mathematics and Applied I
 
 ## 📂 Projects  
 - **Linear Regression from Scratch** – Implementing and testing linear regression.  
-- **Data Cleaning & Visualization** – Exploring and preprocessing real-world datasets.  
-- *(More projects coming soon!)*  
 
-## 🔧 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
 
