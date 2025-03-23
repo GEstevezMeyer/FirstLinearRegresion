@@ -1,18 +1,26 @@
-# 🚀 Machine Learning & Data Science Projects
+# 🔢 Linear Regression from Scratch using ERM  
 
-Welcome to my GitHub repository! This is where I showcase my **machine learning** and **data science** projects while learning to use GitHub.  
+This repository is an attempt to implement **Linear Regression** from scratch using **Empirical Risk Minimization (ERM)**.  
 
-## 📌 About Me  
-I am currently studying for a **Bachelor’s degree in Mathematics and Applied Informatics**, specializing in **Economics and Administration**. My studies are focused on **data analytics**, and I am passionate about applying machine learning techniques to real-world problems.  
+I will first implement the **empirical risk function** and then apply the **ERM algorithm** to find the optimal parameters.  
 
-## 🛠 Technologies Used  
-- Python 🐍  
-- NumPy & Pandas 📊  
-- Scikit-Learn 🤖  
-- Matplotlib & Seaborn 📈  
-- Git & GitHub 🖥  
+## 📚 Inspiration  
+This project is inspired by the book:  
+**_Mathematics for Machine Learning_** by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*.  
 
-## 📂 Projects  
-- **Linear Regression from Scratch** – Implementing and testing linear regression.  
+## 🛠️ Technologies Used  
+The following Python libraries will be used:  
+- 📊 **Pandas** – for data manipulation  
+- 🔢 **NumPy** – for numerical computations  
+- 📈 **Matplotlib** – for visualization  
+
+## 🚀 Progress  
+- ✅ Implemented the **Empirical Risk** function  
+- 🏗️ Adding **Gradient Descent** (not tested yet)  
+- ✨ Using **NumPy** for cleaner iterations  
+- 🔄 Adjusted **empirical_risk** function parameters  
+
+## 🎯 Goal  
+Find the best parameters for linear regression using **Empirical Risk Minimization**.
 
 
